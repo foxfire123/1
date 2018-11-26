@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0FEA65C8-4A25-3A00-64FE-06A7734B4F60}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "GoogleARCore",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS"
+	]
+}
