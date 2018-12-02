@@ -1,2 +1,0 @@
-D:\work\1\IosQuickStart\Intermediate\Source\IosQuickStart.Build.cs
-D:\work\1\IosQuickStart\Intermediate\Source\IosQuickStart.Target.cs
